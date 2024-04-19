@@ -19,7 +19,7 @@
 
 <hr/>
 
-## चित्राङ्कित डाटा / Pictorial Data
+## चित्राङ्कित डाटा / Charts
 
 <p align="center">
   <a href="https://github.com/b1nay">
