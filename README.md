@@ -1,4 +1,4 @@
-##विषयवस्तु / Materials
+## विषयवस्तु / Materials
 
 <p align="center">
   
@@ -17,7 +17,9 @@
 
 </p>
 
-##चित्राङ्कित डाटा / Pictorial Data
+<hr/>
+
+## चित्राङ्कित डाटा / Pictorial Data
 
 <p align="center">
   <a href="https://github.com/b1nay">
